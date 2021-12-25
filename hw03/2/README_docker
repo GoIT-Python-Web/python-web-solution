@@ -1,0 +1,2 @@
+docker build --tag helper-image .
+docker run -ti helper-image
